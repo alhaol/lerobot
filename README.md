@@ -1,3 +1,9 @@
+> **Fork notice**
+> This is [alhaol](https://github.com/alhaol)'s fork of
+> [huggingface/lerobot](https://github.com/huggingface/lerobot).
+> Maintained for personal development and experimentation.
+> Upstream remains the canonical source.
+
 <p align="center">
   <img alt="LeRobot, Hugging Face Robotics Library" src="./media/readme/lerobot-logo-thumbnail.png" width="100%">
 </p>
